@@ -160,10 +160,11 @@ Contoh Pada Menggunakan Python Untuk Membuat Convertasion / Chat Pada Chat Yang 
 
 <p style="display: flex; justify-content: space-between;">
     <img style="width: 48%;" src="foto/1.PNG" />
-    <img style="width: 48%;" src="foto/2.PNG" />
     <img style="width: 48%;" src="foto/3.png" />
-    <img style="width: 48%;" src="foto/4.png" />
     <img style="width: 48%;" src="foto/5.png" />
+    <img style="width: 48%;" src="foto/2.PNG" />
+    <img style="width: 48%;" src="foto/4.png" />
+    
 </p>
 
 ## Authors
