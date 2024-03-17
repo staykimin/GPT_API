@@ -1,0 +1,30 @@
+{
+    "base_path": "db",
+    "server": {
+        "debug": true,
+        "template_auto_reload": true,
+        "session_lifetime": 10,
+        "port": 5000,
+        "host": "0.0.0.0",
+        "secret_key": "Chat_GPT_API",
+        "static_path": "../db",
+        "template_path": "../db"
+    },
+    "log": {
+        "debug": false,
+        "show_query": false,
+        "show_request": true,
+        "save_log": false
+    },
+    "routes": {
+        "modul_name": "routes",
+        "API": {
+            "url": "/API/<mode>",
+            "methods": [
+                "POST"
+            ],
+            "function": "API"
+        }
+    },
+    "user_config": "config.min"
+}
