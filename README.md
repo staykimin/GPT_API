@@ -10,16 +10,6 @@ Program Untuk Membuat Endpoint/API Untuk Berinteraksi Dengan Chat GPT. Dibuat Me
 - Menghapus Convertasion / Chat Dari Chat GPT
 - Client Mode & Server Mode
 
-## Preview
-
-<p style="display: flex; justify-content: space-between;">
-    <img style="width: 48%;" src="foto/1.PNG" />
-    <img style="width: 48%;" src="foto/2.PNG" />
-    <img style="width: 48%;" src="foto/3.png" />
-    <img style="width: 48%;" src="foto/4.png" />
-    <img style="width: 48%;" src="foto/5.png" />
-</p>
-
 ## Cara Penggunaan
 
 **Windows**
@@ -166,7 +156,15 @@ Contoh Pada Menggunakan Python Untuk Membuat Convertasion / Chat Pada Chat Yang 
 - URL / Lokasi Endpoint */API* Adalah URL Default dan Bisa Disesuikan Lagi Pada file **server_config.min**
 - Nama file **server_config.min** Tidak Boleh Diubah
 
+## Preview
 
+<p style="display: flex; justify-content: space-between;">
+    <img style="width: 48%;" src="foto/1.PNG" />
+    <img style="width: 48%;" src="foto/2.PNG" />
+    <img style="width: 48%;" src="foto/3.png" />
+    <img style="width: 48%;" src="foto/4.png" />
+    <img style="width: 48%;" src="foto/5.png" />
+</p>
 
 ## Authors
 
