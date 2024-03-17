@@ -13,9 +13,9 @@ Program Untuk Membuat Endpoint/API Untuk Berinteraksi Dengan Chat GPT. Dibuat Me
 ## Preview
 
 <p style="display: flex; justify-content: space-between;">
-    <img style="width: 48%;" src="foto/1.png" />
-    <img style="width: 48%;" src="step1id1-2.PNG" />
-    <img style="width: 48%;" src="step1id1-3.PNG" />
+    <img style="width: 48%;" src="foto/1.PNG" />
+    <img style="width: 48%;" src="foto/2.PNG" />
+    <img style="width: 48%;" src="foto/3.PNG" />
 </p>
 
 ## Cara Penggunaan
