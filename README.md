@@ -45,7 +45,7 @@ Pastikan Menjalankan Programnya via CMD / Terminal
    ./GPT_API -c config.min -m server
 ```
 #### Note : 
-config.min adalah nama file dimana cookie dan user-agent disimpan
+- config.min adalah nama file dimana cookie dan user-agent disimpan
 
 ## Config.min
 Berikut Adalah Cara Conifugari Cookie dan User-Agent Pada File **config.min**
