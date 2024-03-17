@@ -9,9 +9,16 @@ Program Untuk Membuat Endpoint/API Untuk Berinteraksi Dengan Chat GPT. Dibuat Me
 - Melakukan Convertasion / Chat Dengan GPT Secara Langsung
 - Menghapus Convertasion / Chat Dari Chat GPT
 - Client Mode & Server Mode
-## Cara Penggunaan
 
-Install Library Yang Dibutukan Dengan Cara :
+## Preview
+
+<p style="display: flex; justify-content: space-between;">
+    <img style="width: 48%;" src="foto/1.png" />
+    <img style="width: 48%;" src="step1id1-2.PNG" />
+    <img style="width: 48%;" src="step1id1-3.PNG" />
+</p>
+
+## Cara Penggunaan
 
 **Windows**
 
