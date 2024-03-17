@@ -1,7 +1,7 @@
 {
     "base_path": "db",
     "server": {
-        "debug": true,
+        "debug": false,
         "template_auto_reload": true,
         "session_lifetime": 10,
         "port": 5000,
