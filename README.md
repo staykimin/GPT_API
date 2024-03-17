@@ -37,7 +37,7 @@ Pastikan Menjalankan Programnya via CMD / Terminal
 
 *Client Mode*
 ```bash
-   ./GPT_API.exe -c config.min 
+   ./GPT_API -c config.min 
 ```
 
 *Server Mode*
