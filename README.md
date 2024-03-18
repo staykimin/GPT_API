@@ -176,6 +176,5 @@ Contoh Pada Menggunakan Python Untuk Membuat Convertasion / Chat Pada Chat Yang 
 
 Support Saya Di :
 
-- https://saweria.co/staykimin
-- https://www.facebook.com/staykimin/
-- https://web.facebook.com/profile.php?id=61557427611851
+- [Saweria](https://saweria.co/staykimin)
+- [Facebook](https://web.facebook.com/profile.php?id=61557427611851)
