@@ -46,6 +46,7 @@ Pastikan Menjalankan Programnya via CMD / Terminal
 ```
 #### Note : 
 - config.min adalah nama file dimana cookie dan user-agent disimpan
+- Hanya Gunakan User Agent Versi Mozila Firefox
 
 ## Config.min
 Berikut Adalah Cara Conifugari Cookie dan User-Agent Pada File **config.min**
