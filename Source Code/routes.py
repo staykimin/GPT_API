@@ -1,6 +1,6 @@
 from flask import request
 from kimin.core_executor import Execute
-import datetime, os, json, requests, time, sys
+import datetime, os, json, time
 
 with open('server_config.min', 'r', encoding='UTF-8') as dataku:
 	cfg = json.loads(dataku.read())
