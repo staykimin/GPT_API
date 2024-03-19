@@ -1,4 +1,4 @@
-import requests, json, os, datetime, platform, time, sys
+import json, os, datetime, platform, time
 from kimin.core_executor import Execute
 from colorama import Fore, Back, Style
 from colorama import init
