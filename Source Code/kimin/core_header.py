@@ -18,10 +18,7 @@ class Header_Processing:
 		return kimin.header
 	
 	def Api_Header(kimin, x):
-		kimin.header['Referer'] = "https://chat.openai.com/"
-		kimin.header['Authorization'] = f'Bearer {x}'
-		kimin.header['OAI-Device-Id'] = kimin.cookie.split("oai-did=")[-1].split(";")[0]
-		kimin.header['OAI-Language'] = 'en-US'
+		kimin.header['Referer'], kimin.header['Authorization'], kimin.header['OAI-Device-Id'], kimin.header['OAI-Language'] = "https://chat.openai.com/", f'Bearer {x}', kimin.cookie.split("oai-did=")[-1].split(";")[0], 'en-US' 
 		return kimin.header
 	
 	def Chat_ReqHeader(kimin, x):
